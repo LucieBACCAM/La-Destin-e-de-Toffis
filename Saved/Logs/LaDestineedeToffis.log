@@ -1057,3 +1057,13 @@ LogConfig: Set CVar [[r.Shadow.DetectVertexShaderLayerAtRuntime:1]]
 [2023.03.24-11.02.37:464][  0]LogContentStreaming: Texture pool size now 1000 MB
 [2023.03.24-11.02.37:511][  0]LogAutomationController: Ignoring very large delta of 17049472.68 seconds in calls to FAutomationControllerManager::Tick() and not penalizing unresponsive tests
 [2023.03.24-11.08.42:371][158]LogDerivedDataCache: C:/Users/Student/AppData/Local/UnrealEngine/Common/DerivedDataCache: Maintenance finished in +00:04:12.019 and deleted 0 files with total size 0 MiB. Scanned 155756 files in 97962 folders with total size 18067 MiB.
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: ================================================
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: Total job queries 75, among them cache hits 2 (2.67%)
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: Tracking 73 distinct input hashes that result in 66 distinct outputs (90.41%)
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: RAM used: 0.70 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.09%
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: === Shader Compilation stats ===
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: Shaders Compiled: 0
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: Jobs assigned 0, completed 0 (0.00%)
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: Time at least one job was in flight (either pending or executed): 0.00 s
+[2023.03.24-11.21.59:221][549]LogShaderCompilers: Display: ================================================
