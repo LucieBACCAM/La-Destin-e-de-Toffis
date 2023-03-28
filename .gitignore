@@ -74,3 +74,6 @@ Plugins/*/Intermediate/*
 DerivedDataCache/*
 *.bin
 *.log
+
+#Manually added
+Saved/*
